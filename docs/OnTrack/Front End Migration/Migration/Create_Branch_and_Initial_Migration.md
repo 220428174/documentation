@@ -68,7 +68,7 @@ move on.
 
 ```console
 git add .
-git commit -m "build: create initial files for migration”
+git commit -m 'build: create initial files for migration'
 git push --set-upstream origin touth/migrate/not-found
 ```
 
